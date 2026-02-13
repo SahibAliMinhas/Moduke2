@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="Moduke2.3/Moduke2.3.vcxproj" />
   <Project Path="Module2.4/Module2.4.vcxproj" />
+  <Project Path="Module2.5/Module2.5.vcxproj" />
 </Solution>
